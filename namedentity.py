@@ -1,6 +1,9 @@
 # Uses Python Natural Language Toolkit
 # Download instructions http://nltk.org/install.html
 # Downloading training data http://nltk.org/data.html
+# Once you've installed the library, run python interpereter, type "import nltk", then "nltk.download()"
+# Add the model "maxent_ne_chunker"
+
 
 import nltk
 
