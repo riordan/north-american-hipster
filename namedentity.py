@@ -1,3 +1,7 @@
+# Uses Python Natural Language Toolkit
+# Download instructions http://nltk.org/install.html
+# Downloading training data http://nltk.org/data.html
+
 import nltk
 
 with open('testrecord-aa09bf3ba6a344af8bbb5458712bcaa5.txt', 'r') as f:
